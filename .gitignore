@@ -1,0 +1,8 @@
+# Ignore all __pycache__ directories two levels deep
+*/*/__pycache__/
+
+# Ignore the build folder at the root level
+/build/
+
+# Ignore the test_data folder at the root level
+/test_data/

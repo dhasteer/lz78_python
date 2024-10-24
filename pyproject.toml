@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lz78_python"
+version = "0.0.1"
+dependencies = [
+    "numpy",
+    "bitarray"
+]
+requires-python = ">= 3.8"
+

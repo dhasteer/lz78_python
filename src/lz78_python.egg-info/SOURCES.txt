@@ -1,0 +1,14 @@
+pyproject.toml
+src/lz78_python.egg-info/PKG-INFO
+src/lz78_python.egg-info/SOURCES.txt
+src/lz78_python.egg-info/dependency_links.txt
+src/lz78_python.egg-info/requires.txt
+src/lz78_python.egg-info/top_level.txt
+src/lz78_python/naive/decoder.py
+src/lz78_python/naive/encoder.py
+src/lz78_python/spa/ComputePhraseLoss.py
+src/lz78_python/spa/encoder.py
+src/lz78_python/streamed/decoder.py
+src/lz78_python/streamed/encoder.py
+src/lz78_python/utils/CharacterMap.py
+src/lz78_python/utils/LZ78Tree.py
