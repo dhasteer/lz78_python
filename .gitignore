@@ -6,3 +6,6 @@
 
 # Ignore the test_data folder at the root level
 /test_data/
+
+# Ignore the egg-info folder generated upon package installation
+/src/lz78_python.egg-info/
