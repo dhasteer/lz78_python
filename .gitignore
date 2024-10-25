@@ -1,5 +1,5 @@
 # Ignore all __pycache__ directories two levels deep
-*/*/__pycache__/
+/src/*/*/__pycache__/
 
 # Ignore the build folder at the root level
 /build/
